@@ -11,7 +11,7 @@ function mudarposicao(min,max){
     return position + "%"
 }
 function respostasim(){
-    alert("(╯°□°）╯︵ ┻━┻")
+    alert("Obrigado amigo")
 }
 
 function esquivarmobile(){
